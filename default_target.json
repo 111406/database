@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "63988922f09601d3053fcc98"
+  },
+  "user_id": "azhe9222",
+  "target_times": [
+    {
+      "part": 0,
+      "times": 10,
+      "set": 1,
+      "total": 10
+    },
+    {
+      "part": 1,
+      "times": 1,
+      "set": 1,
+      "total": 1
+    },
+    {
+      "part": 2,
+      "times": 15,
+      "set": 2,
+      "total": 30
+    }
+  ],
+  "valid": true
+},{
+  "_id": {
+    "$oid": "639899fc6b35d275bbf65d27"
+  },
+  "user_id": "test1206",
+  "target_times": [
+    {
+      "part": 0,
+      "times": 710,
+      "set": 7,
+      "total": 4970
+    },
+    {
+      "part": 1,
+      "times": 8,
+      "set": 1,
+      "total": 8
+    },
+    {
+      "part": 2,
+      "times": 15,
+      "set": 2,
+      "total": 30
+    }
+  ],
+  "valid": true
+}]
